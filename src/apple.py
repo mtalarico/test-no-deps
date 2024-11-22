@@ -1,2 +1,2 @@
 def apple():
-  return "apple"
+  return "a as in apple"
